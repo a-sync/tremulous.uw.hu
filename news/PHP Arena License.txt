@@ -1,0 +1,31 @@
+PHP Arena License 
+
+Please read this whole file before installing this PHP Arena script. 
+
+This PHP Arena script is free to use and modify for almost all websites as long as you do not remove the script copyright and link to the PHP Arena homepage on the bottom of scripts. 
+
+PHP Arena scripts cannot be used on sites that offer or promote: 
+-Piracy (Software/music/movie/etc piracy) 
+-Hacking/Cracking 
+-Pornography of any type 
+-Any other illegal activity 
+If your site is not included in that list and you keep the copyright info in the script, you may use and modify this PHP Arena script. 
+
+You may distribute PHP Arena scripts as long as: 
+A) You receive no payment for it except for costs such as internet fees (ISP, hosting, etc) and disc duplication and distribution. (This includes installation and modifications.) 
+B) You do not modify it in any way. 
+C) You distribute in the original zip file from PHP Arena's website (http://www.phparena.net) with all the files, including this license file. 
+
+You may use PHP Arena scripts on any number of websites you like as long as all those websites are not included in the above list of websites that PHP Arena scripts can't be used on. 
+
+You may freely distribute any modifications you make for PHP Arena scripts, but you can not distribute a whole copy of PHP Arena scripts with your modifications in it. Modifications made available must contain instructions on modifying the file, not the already-modified file. 
+
+In no event will PHP Arena be liable to you for any consequential, incidental, or indirect damages (including damages for loss of business profits, business interruption, loss of business information, and the like) arising out of the use or inability to use PHP Arena scripts. 
+
+If this license agreement is broken, you must cease to use and destroy any copies of this script you have installed. 
+
+If a PHP Arena staff member finds you breaking this agreement, s/he will send you an e-mail asking you to cease using and destroy the copy of the script that is breaking the agreement. You will have 24 hours after the e-mail is sent to destroy the copy. If it is still up and running after 24 hours, legal action will be taken. 
+
+PHP Arena has the right to change this agreement at any time. Any changes will be posted on the PHP Arena website (http://www.phparena.net/) and it is your responsibility to check for changes. If the agreement changes and then causes your copy of the script to break this agreement, PHP Arena still has the right to take legal action. 
+
+For any queries about the license, or to report and violations, please e-mail license@phparena.net.
